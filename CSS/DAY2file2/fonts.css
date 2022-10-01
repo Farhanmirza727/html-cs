@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: 20px; */
+    font-style: italic;
+    /* font-weight: ; */
+    text-decoration: line-through;
+    text-decoration-color: white;
+    text-decoration-style: double;
+    text-decoration: line-through green dashed ;
+}
+p {
+    font-weight:bolder ;
+
+       /* Same meaning */
+       
+    /* text-decoration: none;
+    text-decoration-line:none ; */
+
+
+    /* text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase; */
+
+
+/* text-indent: 100px;
+letter-spacing: 10px;
+word-spacing: 05px;
+line-height: 5; */
+white-space: ;
+
+
+}
+h2 {
+    /* font-size: 100px; */
+    color: purple;
+    /* text-decoration: line-through solid white ;
+    text-shadow: 3px 3px 2px black; */
+    /* text-shadow: -3px -3px 2px black; */
+    text-shadow: 3px 3px 2px black, -3px -3px 2px black;
+}

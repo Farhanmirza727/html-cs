@@ -1,0 +1,43 @@
+.first {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  background-color: purple;
+  transition-duration: 4s;
+  /* transition-delay: 3s; */
+  transition-property: width;
+  /* transition-property: background-color; */
+}
+/* .first:hover {
+  width: 600px;
+  height: 200px;
+  background-color: red;
+} */
+.first:hover {
+  width: 800px;
+}
+.one {
+  transition-timing-function: linear;
+}
+.two {
+  transition-timing-function: ease;
+}
+.three {
+  transition-timing-function: ease-in;
+}
+.four {
+  transition-timing-function: ease-out;
+}
+.five {
+  transition-timing-function: ease-in-out;
+}
+/* .one {
+  width: 200px;
+  width: 100px;
+  background-color: cornflowerblue;
+  transition: width 2s 3s linear;
+}
+.one:hover {
+  height: 200px;
+  width: 800px;
+} */

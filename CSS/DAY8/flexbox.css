@@ -1,0 +1,26 @@
+.parent {
+  background-color: slategray;
+  height: 1300px;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* align-items: stretch; */
+  /* flex-direction: row; */
+}
+.child {
+  width: 23%;
+  height: 400px;
+  background-color: seagreen;
+  margin: 5px;
+  /* display: inline-block; */
+}
+/* .one {
+  flex-grow: 1;
+}
+.two {
+  flex-grow: 1;
+}
+.three {
+  flex-grow: 1;
+} */

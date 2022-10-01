@@ -1,0 +1,33 @@
+.parent1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.child1{
+    background-color: lightgray;
+    
+}
+.child2{
+    background-color: rgb(211, 211, 211);
+   
+}
+#parent2{
+    background-color: rgb(0, 255, 115);
+    width: 100px;
+    height: 100px;
+}
+#bacha1{
+/* background-color: salmon; */
+font-weight: bolder;
+}
+#bacha2{
+/* background-color: dodgerblue; */
+font-weight: lighter;
+}
+nav{
+    background-color: brown;
+    width: 50px;
+}
+a {
+    background-color: black;
+}

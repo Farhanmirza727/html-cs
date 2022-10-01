@@ -1,0 +1,48 @@
+.parent {
+    background-color: salmon;
+
+    /* width: 100%;  */
+    /* if image on top right */
+    /* backgroun attachment-fixed */
+
+    width: 600px;
+    height: 1200px;
+    border: 25px dashed black;
+    padding: 50px;
+
+    /* opacity: 0.5; */
+
+    background-image: url(https://firebearstudio.com/blog/wp-content/uploads/2015/03/The-Best-CSS-Frameworks-213x300.png);
+
+
+    /* background-size:cover ; */
+
+    
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+
+
+    /* background-position: center; */
+    /* background-position:top right; */
+    /* background-position: left bottom; */
+    /* background-position: left bottom; */
+    /* background-position: center bottom; */
+    /* background-position: center left; */
+
+
+    /* background-origin: padding-box; */
+    background-origin: content-box;
+    /* background-origin: border-box; */
+
+    /* background-clip: padding-box; */
+    background-clip: content-box;
+
+    /* background-attachment: scroll; */
+    /* background-attachment: fixed; */
+}
+.dummy {
+    background-color: purple;
+    width: 600px;
+    height: 1200px;
+}

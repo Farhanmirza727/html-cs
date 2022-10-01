@@ -1,0 +1,22 @@
+.parent {
+  background-color: darkcyan;
+  height: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+  justify-content: space-around;
+  align-items: center;
+  /* align-content: space-between; */
+  /* align-content: space-around; */
+}
+.common {
+  height: 300px;
+  width: 26%;
+  background-color: purple;
+  margin: 5px;
+}
+.target {
+  height: auto;
+  /* align-self: stretch; */
+  align-self: stretch;
+}

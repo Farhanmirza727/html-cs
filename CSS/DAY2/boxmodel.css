@@ -1,0 +1,23 @@
+div {
+    background-color: green;
+    display: Inline-block;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-right: 50px;
+   padding-left: 50px;
+    padding: 50px;
+    padding-right: 50px;
+    padding: 50px;
+
+border-bottom: 5px dotted black;
+border-top: 10px dashed red;
+border-left: 5px double green;
+border-right: 10px groove blue;
+
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 50px;
+margin-left: 50px;
+
+
+}

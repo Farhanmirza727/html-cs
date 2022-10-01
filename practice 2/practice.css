@@ -1,0 +1,46 @@
+.parent {
+  height: 600px;
+  width: 300px;
+  background-color: grey;
+  position: relative;
+  left: 40%;
+  top: 50px;
+}
+.blankdiv {
+  height: 40%;
+  background-color: black;
+  border-radius: 25%;
+}
+.blankdiv:hover {
+  box-shadow: -5px -5px 5px red, 5px 5px 5px navy;
+}
+.content {
+  padding-left: 10px;
+}
+.content:hover {
+  box-shadow: 5px 5px 3px green, -5px -5px 3px green;
+}
+.name {
+  text-align: center;
+  color: aqua;
+}
+h1 {
+  display: inline;
+  padding-bottom: px;
+}
+.title {
+  text-decoration: underline crimson;
+  text-align: center;
+  padding-top: 20px;
+}
+i {
+  color: red;
+}
+.img {
+  padding-bottom: 60px;
+}
+.desc {
+  font-size: 20px;
+  text-indent: 50px;
+  color: darkslateblue;
+}

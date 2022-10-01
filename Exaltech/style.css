@@ -1,0 +1,40 @@
+.parent {
+  margin: 0px;
+}
+.home {
+  height: 170px;
+  width: 100%;
+  background-color: black;
+}
+.work {
+  color: white;
+}
+h1 {
+  display: inline-block;
+  position: relative;
+  left: 60px;
+  top: 50px;
+}
+a {
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+  position: relative;
+  left: 100px;
+  top: 45px;
+}
+.father {
+  height: 830px;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  transition-duration: 10s;
+  /* transition-delay: 3s; */
+  transition-property: width;
+}
+.player {
+  height: 425px;
+  width: 23%;
+  background-color: blue;
+}

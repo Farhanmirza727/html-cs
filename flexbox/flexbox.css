@@ -1,0 +1,20 @@
+.parent {
+  margin: 5px;
+  height: 1300px;
+  background-color: purple;
+  display: flex;
+  flex-wrap: wrap;
+  transition-duration: 10s;
+  /* transition-delay: 3s; */
+  transition-property: width;
+}
+.sample {
+  height: 425px;
+  width: 23%;
+  background-color: blue;
+}
+h1 {
+  text-align: center;
+  font-style: italic;
+  background-color: darkblue;
+}

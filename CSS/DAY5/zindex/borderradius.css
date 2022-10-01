@@ -1,0 +1,19 @@
+.radius {
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    margin: 200px;
+    /* border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px; */
+    
+    border-radius: 100px 100px 0 0;
+}
+
+
+
+/* border:10 px; */
+/* border-style:dashed; */ border style
+bo
+/* border-color: red; */ color name

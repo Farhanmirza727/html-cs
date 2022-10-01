@@ -1,0 +1,36 @@
+/* div {
+    background-color: blue;
+    width: 700px;
+    height: 40px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    overflow: auto;
+    overflow-y: hidden;
+    overflow-y: visible; */
+    /* white-space:no */
+    .first {
+        background-color: blue;
+        height: 200px;
+        }
+        .second {
+            background-color: black;
+            height: 200px;
+        }
+        .third {
+            background-color: brown;
+            height: 200px;
+            white-space: nowrap;
+            overflow-x: scroll;
+        }
+        img{
+            height: 200px;
+            width: 200px;
+        }
+        .fourth {
+            background-color: purple;
+            height: 200px;
+        }
+        .fifth {
+            background-color: aqua;
+            height: 200px;
+        }

@@ -1,0 +1,39 @@
+.parent {
+    width: 800px;
+    height: 1200px;
+    background-color: slateblue;
+    margin: 20px;
+}
+.third {
+    background-color: steelblue;
+    position: relative;
+}
+.one {
+    width: 200px;
+    height: 350px;
+    background-color: red;
+}
+.two {
+    width: 400px;
+    height: 350px;
+    background-color: green;
+    /* left: 100px;
+    top: 100px; */
+    /* position: static; */
+    /* position: relative; */
+    /* z-index: 1; */
+
+
+    position: absolute;
+    top: 100px;
+
+}
+.three {
+    width: 600px;
+    height: 350px;
+    background-color: blue;
+    /* position: relative; */
+    /* z-index: 2; */
+}
+
+          /* position:relative unlock 5 left top bottom right z-index */

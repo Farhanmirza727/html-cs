@@ -1,0 +1,33 @@
+.parent {
+    background-color: thistle;
+    height: 1200px;
+    width: 800px;
+    margin: 50px;
+}
+.second div {
+width: 100px;
+height: 100px;
+margin: 20pxx;
+}
+.second {
+    position: relative;
+}
+.one {
+    background-color: red;
+    position: absolute;
+    left: 170px;
+    top: 50px;
+}
+.two {
+    background-color: green;
+    position: relative;
+    left: 200px;
+    top: 75px;
+    /* bottom: 50px; */
+}
+.three{
+    background-color: blue;
+    position: relative;
+    left: 225px;
+    top: 50;
+}
